@@ -13,7 +13,7 @@ const Dashboard = () => {
         </div>
       <div className="sidebar mt-24">
         <div className="sidebar-menu">
-        <h1 className="ml-20 text-lg  p-1 ">Dashboard</h1>
+        <h1  className="ml-20 text-lg  p-1 ">Dashboard</h1>
           <ul>
             <li>
               <a href="" className="active">
@@ -59,7 +59,7 @@ const Dashboard = () => {
             </li>
             <li>
               <a href="">
-                <span className="las la-user-circle "></span>
+                <span className="las la-truck"></span>
                 <span>Truck Booking</span>
               </a>
             </li>
@@ -173,7 +173,7 @@ const Dashboard = () => {
                       <div>
                         <tbody>
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order1</td>
                             <div>
                               <td>hhhhhhh</td>
                             </div>
@@ -184,7 +184,7 @@ const Dashboard = () => {
                             </div>
                           </tr>
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order2</td>
                             <div>
                               <td>hhhhhhh</td>
                             </div>
@@ -195,7 +195,7 @@ const Dashboard = () => {
                             </div>
                           </tr>
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order3</td>
                             <div>
                               <td>hhhhhhh</td>
                             </div>
@@ -206,9 +206,9 @@ const Dashboard = () => {
                             </div>
                           </tr>
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order4</td>
                             <div>
-                              <td>hhhhhhh</td>
+                              <td>Driver4</td>
                             </div>
                             <div>
                               <td>
@@ -218,9 +218,9 @@ const Dashboard = () => {
                           </tr>
                           <tr>
                             <tr className="flex flex-row gap-40">
-                              <td>UI/UX Design</td>
+                              <td>order5</td>
                               <div>
-                                <td>hhhhhhh</td>
+                                <td>Driver5</td>
                               </div>
                               <div>
                                 <td>
@@ -230,9 +230,9 @@ const Dashboard = () => {
                             </tr>
                           </tr>
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order6</td>
                             <div>
-                              <td>hhhhhhh</td>
+                              <td>Driver6</td>
                             </div>
                             <div>
                               <td>
@@ -242,9 +242,9 @@ const Dashboard = () => {
                           </tr>
 
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order7</td>
                             <div>
-                              <td>hhhhhhh</td>
+                              <td>Driver7</td>
                             </div>
                             <div>
                               <td>
@@ -254,9 +254,9 @@ const Dashboard = () => {
                           </tr>
 
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order8</td>
                             <div>
-                              <td>hhhhhhh</td>
+                              <td>Driver8</td>
                             </div>
                             <div>
                               <td>
@@ -265,9 +265,9 @@ const Dashboard = () => {
                             </div>
                           </tr>
                           <tr className="flex flex-row gap-40">
-                            <td>UI/UX Design</td>
+                            <td>order9</td>
                             <div>
-                              <td>hhhhhhh</td>
+                              <td>Driver10</td>
                             </div>
                             <div>
                               <td>
