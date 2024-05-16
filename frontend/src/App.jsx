@@ -15,6 +15,7 @@ import Products from './components/NavBar/Products';
 import OrderList from './components/Helper/ServiceProvider/OrderList';
 import Myorders from './components/Helper/ServiceProvider/Myorders';
 import CustomerCart from './components/Helper/Customer/CustomerCart';
+
 import ProductDetails from './components/Helper/Customer/ProductDetails';
 axios.defaults.baseURL = "http://localhost:4000/api";
 axios.defaults.withCredentials = true;
@@ -37,6 +38,7 @@ function App() {
             <Route path='/dashboard/OrderList' element={<OrderList />} />
             <Route path='/dashboard/myorders' element={<Myorders />} />
             <Route path='/dashboard/customercart' element={<CustomerCart />} />
+
             <Route path='/dashboard/productdetails ' element={<ProductDetails />} />
 
           </Route>

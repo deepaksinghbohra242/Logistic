@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import truck_bg from "../../assets/image/truck_bg.png";
 
+
 function Home() {
   return (
     <div>
@@ -37,6 +38,7 @@ function Home() {
         </div>
       </section>
     </div>
+    
   )
 }
 
